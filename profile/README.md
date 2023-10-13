@@ -1,9 +1,4 @@
-<div align="center">
-  <p>
-    <a href=" ">
-        <img src="logo.png" width="700">
-    </a>
-</p>
+
   <h2>The Phenository is your one-stop-shop that connects you to resources on techniques, models, code/libraries, free courses, and datasets.</h2>
 
 # 🍃 [Website coming soon!](-link-) 🍂
