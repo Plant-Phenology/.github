@@ -6,7 +6,7 @@
 </div>
 
 ## Introduction
-There has never been more ways to observe and study plant phenology. From boots on the ground community science via organizations such as the [National Phenology Network](https://www.usanpn.org/usa-national-phenology-network), to satellites with passive and active sensors, we can document our biosphere's cycles and observe its change in a verity of ways. With all the new data and techniques to study it increasing every day, it makes it difficult for any one course to keep track. This organization provides living respositories for new and veteran phenologists to use and stay at the cutting edge of phenological research. 
+There has never been more ways to observe and study plant phenology. From boots on the ground community science via organizations such as the [National Phenology Network](https://www.usanpn.org/usa-national-phenology-network), to satellites with passive and active sensors, we can document our biosphere's cycles and observe its change in a verity of ways. With all the new data and techniques to study it increasing every day, it makes it difficult for any one course to keep track. This organization provides living respositories for new and veteran phenologists to use and stay at the cutting edge of phenological research. Yay!
 
 #
 
