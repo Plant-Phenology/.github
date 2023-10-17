@@ -16,7 +16,7 @@ This organisation hosts the following repositories:
 - [techniques](https://github.com/Plant-Phenology/techniques): provides a comprehensive list of measuring and modeling techniques for plant phenology
 - [courses](https://github.com/Plant-Phenology/pheno-courses): online courses and lessons related to plant phenology
 - [model-training-and-deployment](https://github.com/Plant-Phenology/model-training-deployment): a collection of phenology models ranging from growing degree days to deep learning
-- [code libraries](https://github.com/Plant-Phenology/code-libraries-tools): for working with phenology data & datasets
+- [code libraries](https://github.com/Plant-Phenology/code-libraries-tools): for working with phenology datasets
 - [datasets](https://github.com/Plant-Phenology/datasets): a collection of curated phenology datasets for research, teaching, and practice
 
 ## 📝 How to contribute
